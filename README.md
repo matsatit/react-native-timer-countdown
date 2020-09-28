@@ -8,13 +8,13 @@ for React Native (iOS and Android)
 ## Installation
 
 ```sh
-npm install --save react-native-timer-countdown
+npm install --save https://github.com/matsatit/react-native-timer-countdown.git
 ```
 
 or
 
 ```sh
-yarn add react-native-timer-countdown
+yarn add https://github.com/matsatit/react-native-timer-countdown.git
 ```
 
 ## Example
